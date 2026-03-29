@@ -1,0 +1,63 @@
+CASE STUDY: Coca-Cola "Share a Coke" Digital Revival Campaign
+
+Client: The Coca-Cola Company
+Agency: Ogilvy Global
+Campaign Duration: May 2024 - August 2024
+Budget: $35 Million
+
+OBJECTIVE:
+Revive the beloved "Share a Coke" campaign for the digital age, driving personalization at scale through AI-generated content and social sharing. The goal was to increase summer sales by 10% and grow the brand's social media following by 500K across platforms.
+
+TARGET AUDIENCE:
+Primary: Young adults (18-30) who are active on social media
+Secondary: Families with children (parents aged 30-45)
+Psychographics: Social, experience-driven, values nostalgia and personal connection
+
+STRATEGY:
+Coca-Cola partnered with an AI platform to allow consumers to generate personalized digital Coke labels with their names, custom messages, and AI-generated artwork. Users could share these digital labels on social media or order physical personalized bottles through an e-commerce integration.
+
+Key tactical elements:
+1. AI Label Generator: Web app where users create custom Coke labels with AI art
+2. Social Sharing: One-click sharing to Instagram, TikTok, and WhatsApp
+3. E-commerce Integration: Order personalized physical bottles directly
+4. Vending Machine Experience: Smart vending machines in malls with instant personalization
+5. Partnership: Collaborated with Spotify for "Share a Song + Coke" playlist feature
+
+CHANNELS:
+- Social Media (Instagram, TikTok, WhatsApp, Snapchat)
+- Web App (shareacoke.coca-cola.com)
+- E-commerce (direct-to-consumer personalized bottles)
+- Retail (smart vending machines in 200+ locations)
+- Streaming (Spotify integration)
+- Influencer Marketing (50 macro-influencers + 500 micro-influencers)
+
+CREATIVE APPROACH:
+Tone: Fun, personal, nostalgic yet modern, inclusive
+Visual Style: Bright colors, bold typography, AI-generated artistic flourishes
+Music: Upbeat summer playlist curated with Spotify
+Tagline: "Share a Coke, Share a Moment"
+
+RESULTS:
+- 8.5 million personalized labels generated in 3 months
+- Summer sales increased 12% (exceeding 10% target)
+- Social media following grew by 750K (50% above target)
+- Web app had 15 million unique visitors
+- E-commerce: 500,000 personalized bottles ordered
+- TikTok: #ShareACoke2024 reached 3.2 billion views
+- Smart vending machine interactions: 2 million+
+- Campaign ROI: 4.2x return on investment
+
+KEY LEARNINGS:
+1. AI personalization dramatically increased engagement vs. static name labels
+2. WhatsApp sharing was surprisingly effective in markets outside the US
+3. Smart vending machines had highest conversion rates in shopping malls
+4. Spotify integration drove 25% of web app traffic through playlist sharing
+5. User-generated content from the AI label generator was shared 3x more than brand content
+6. Personalized physical bottles had a 40% re-order rate
+
+BUDGET BREAKDOWN:
+- Technology/AI Platform Development: 30% ($10.5M)
+- Media Buying: 25% ($8.75M)
+- Influencer Marketing: 20% ($7M)
+- Content Production: 15% ($5.25M)
+- Smart Vending Machines: 10% ($3.5M)

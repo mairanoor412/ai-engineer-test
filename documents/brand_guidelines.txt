@@ -1,0 +1,101 @@
+BRAND GUIDELINES: Apex Digital Agency
+
+Document Version: 3.0
+Last Updated: January 2025
+Approved By: Sarah Chen, Chief Brand Officer
+
+1. BRAND OVERVIEW
+
+Apex Digital Agency is a full-service digital advertising agency specializing in data-driven creative campaigns for enterprise clients. Founded in 2015, we serve Fortune 500 companies across technology, finance, healthcare, and consumer goods sectors.
+
+Mission: To bridge the gap between data intelligence and creative excellence, delivering campaigns that are both analytically sound and emotionally compelling.
+
+Vision: To be the world's most trusted agency for AI-powered advertising solutions by 2030.
+
+2. BRAND VOICE & TONE
+
+Our brand voice is:
+- Confident but not arrogant: We lead with expertise, not ego
+- Innovative but accessible: We make complex technology feel approachable
+- Data-informed but human: Numbers guide us, but stories drive us
+- Professional but warm: We're serious about our work, not about ourselves
+
+TONE GUIDELINES BY CONTEXT:
+- Client Presentations: Authoritative, polished, insight-led
+- Social Media: Conversational, witty, thought-provoking
+- Case Studies: Results-focused, narrative-driven, specific
+- Internal Communications: Transparent, collaborative, encouraging
+- Crisis Communications: Empathetic, factual, solution-oriented
+
+WORDS WE USE: Insight, Transform, Amplify, Precision, Impact, Collaborate, Innovate, Empower
+WORDS WE AVOID: Disrupt, Crush it, Game-changer, Guru, Ninja, Hack, Pivot, Synergy
+
+3. VISUAL IDENTITY
+
+PRIMARY COLORS:
+- Apex Navy: #1B2A4A (primary brand color — used for headers, CTAs, key elements)
+- Apex Coral: #FF6B5B (accent color — used for highlights, data visualizations, CTAs)
+- Pure White: #FFFFFF (background, clean space)
+
+SECONDARY COLORS:
+- Soft Gray: #F5F5F5 (backgrounds, cards)
+- Charcoal: #333333 (body text)
+- Mint: #4ECDC4 (success states, positive data)
+- Amber: #FFB347 (warning states, attention)
+
+TYPOGRAPHY:
+- Headlines: Inter Bold (32-48px)
+- Subheads: Inter SemiBold (20-28px)
+- Body Copy: Inter Regular (16px, line-height 1.6)
+- Captions: Inter Light (14px)
+- Code/Data: JetBrains Mono (14px)
+
+LOGO USAGE:
+- Minimum clear space: 2x the height of the "A" in Apex
+- Minimum size: 120px width for digital, 1 inch for print
+- Never stretch, rotate, or alter the logo proportions
+- Approved backgrounds: White, Navy, or photography with sufficient contrast
+- Never place the logo on busy backgrounds without a container
+
+4. PHOTOGRAPHY & IMAGE GUIDELINES
+
+Style: Modern, clean, authentic — no stock photography cliches
+People: Diverse representation in age, ethnicity, gender, and ability
+Settings: Real workplaces, genuine moments, natural lighting preferred
+Technology: Show technology as a tool, not the hero — focus on human outcomes
+Avoid: Overly staged poses, handshake photos, generic office scenes, cliched "team high-five" shots
+
+5. SOCIAL MEDIA GUIDELINES
+
+Platform-specific rules:
+- LinkedIn: Thought leadership, case studies, industry insights (post 3-5x/week)
+- Instagram: Behind-the-scenes, team culture, visual case studies (post 4-6x/week)
+- Twitter/X: Industry commentary, quick insights, engagement with community (post 5-10x/week)
+- TikTok: Creative process videos, trend participation, educational content (post 2-3x/week)
+
+Hashtag Strategy:
+- Always include: #ApexDigital #DataDrivenCreative
+- Campaign-specific hashtags should be pre-approved by the marketing team
+- Maximum 5 hashtags per post on Instagram, 2-3 on LinkedIn/Twitter
+
+6. CONTENT APPROVAL PROCESS
+
+All external-facing content must go through:
+1. Creator drafts content
+2. Team Lead reviews for accuracy and tone
+3. Brand Manager approves visual and voice compliance
+4. Legal review (required for claims, statistics, client mentions)
+5. Final sign-off by Department Head
+
+Turnaround times:
+- Social media posts: 24-hour approval cycle
+- Blog posts/articles: 48-hour approval cycle
+- Case studies: 5-business-day approval cycle
+- Client-facing presentations: 3-business-day approval cycle
+
+7. CLIENT CONFIDENTIALITY
+
+- Never share client data, budgets, or internal metrics without written approval
+- Case studies require explicit client sign-off before publication
+- Remove all client-identifiable information from internal training materials
+- NDA terms must be reviewed before any public mention of client relationships

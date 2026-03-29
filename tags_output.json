@@ -1,0 +1,91 @@
+[
+  {
+    "alt_text": "A person wearing a hooded sweater stands on a beach, looking out at the ocean on a cloudy day.",
+    "tags": [
+      "beach",
+      "ocean",
+      "coast",
+      "solitary",
+      "contemplative",
+      "gray",
+      "cloudy",
+      "moody"
+    ],
+    "brand_safety_score": 9,
+    "use_cases": [
+      "travel",
+      "lifestyle",
+      "mental health awareness"
+    ],
+    "filename": "fashion_model.jpg"
+  },
+  {
+    "alt_text": "A teapot with yellow tea and a small cup on a kitchen counter with a vase of yellow roses in the background.",
+    "tags": [
+      "tea",
+      "kitchen",
+      "home",
+      "lifestyle",
+      "beverage"
+    ],
+    "brand_safety_score": 10,
+    "use_cases": [
+      "food and beverage advertising",
+      "lifestyle product promotion",
+      "relaxation and wellness campaign"
+    ],
+    "filename": "food_coffee.jpg"
+  },
+  {
+    "alt_text": "A black and white photo of a desk with a laptop, mouse, calendar, and books.",
+    "tags": [
+      "technology",
+      "desk",
+      "workspace",
+      "laptop",
+      "productivity"
+    ],
+    "brand_safety_score": 10,
+    "use_cases": [
+      "tech advertising",
+      "product photography",
+      "office supplies"
+    ],
+    "filename": "luxury_car.jpg"
+  },
+  {
+    "alt_text": "A flat lay of various men's accessories, including a wallet, sunglasses, bow tie, notebook, phone, watch, and headphones, arranged on a gray background.",
+    "tags": [
+      "accessories",
+      "men's fashion",
+      "lifestyle",
+      "tech",
+      "leather"
+    ],
+    "brand_safety_score": 10,
+    "use_cases": [
+      "Fashion advertising",
+      "Tech gadget promotion",
+      "Lifestyle branding"
+    ],
+    "filename": "nature_landscape.jpg"
+  },
+  {
+    "alt_text": "A desk with various office and tech items including a computer monitor, keyboard, mouse, tablet, glasses, and notebooks.",
+    "tags": [
+      "technology",
+      "office",
+      "workspace",
+      "computer",
+      "electronics",
+      "productivity"
+    ],
+    "brand_safety_score": 10,
+    "use_cases": [
+      "tech product advertisement",
+      "office supply promotion",
+      "workspace organization campaign"
+    ],
+    "filename": "office_desk.jpg"
+  }
+]
